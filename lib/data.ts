@@ -67,6 +67,7 @@ export const projectsData = [
       "I worked as a front-end developer on this startup project and used a dummy API until I finished the back-end using Node.js ",
     tags: ["React", "Next.js", "MongoDB"],
     imageUrl: FayrouzKhan,
+    demo: "https://fayrouz-khan-shopping-website-next-js.vercel.app/",
   },
   {
     title: "Pomodoro Timer",
@@ -74,6 +75,7 @@ export const projectsData = [
       "Pomodoro Timer is a simple and customizable timer application designed to help you boost your productivity using the Pomodoro Technique.",
     tags: [, "HTML", "CSS", "JavaScript"],
     imageUrl: PomodoroTimer,
+    demo: "https://pomodoro-timer-six-green.vercel.app/",
   },
   {
     title: "URL Shortener",
@@ -81,6 +83,7 @@ export const projectsData = [
       "This is a simple URL shortener web application that allows you to shorten long URLs.",
     tags: [, "HTML", "CSS", "JavaScript"],
     imageUrl: UrlShortner,
+    demo: "https://url-shortener-hazel-ten.vercel.app/",
   },
 ] as const;
 

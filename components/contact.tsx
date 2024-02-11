@@ -7,6 +7,9 @@ import { useSectionInView } from "@/lib/hooks";
 import { sendEmail } from "@/actions/sendEmail";
 import SubmitBtn from "./submit-btn";
 import toast from "react-hot-toast";
+import { IoCall } from "react-icons/io5";
+import { FaWhatsapp } from "react-icons/fa";
+import { CiMail } from "react-icons/ci";
 
 export default function Contact() {
   const { ref } = useSectionInView("Contact");
@@ -32,10 +35,14 @@ export default function Contact() {
       <SectionHeading>Contact me ✉️</SectionHeading>
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
-        Feel free to reach out to me directly at{" "}
+        Feel free to reach out to me directly at 📧 {"  "}
         <a className="underline" href="mailto:islamoomostafa@gmail.com">
           islamoomostafa@gmail.com
         </a>{" "}
+        <br /> or at 📞 {"  "}
+        <a className="underline" href="https://wa.me/+201007074852">
+          +20 1007074852{" "}
+        </a>
         or simply use the form below.
       </p>
 

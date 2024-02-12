@@ -100,7 +100,7 @@ export const skillsData = [
   { name: "MongoDB", imageUrl: "/Icons/mongodb.svg" },
   { name: "Linux.js", imageUrl: "/Icons/linux.svg" },
   { name: "Docker.js", imageUrl: "/Icons/docker.svg" },
-  { name: "SQL.js", imageUrl: "/Icons/sql.svg" },
+  { name: "SQL", imageUrl: "/Icons/sql.svg" },
   { name: "Git", imageUrl: "/Icons/git.svg" },
   { name: "Tailwind", imageUrl: "/Icons/tailwind.svg" },
   { name: "Bootstrap", imageUrl: "/Icons/bootstrap.svg" },

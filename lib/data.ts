@@ -2,6 +2,8 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
 import { FaNodeJs } from "react-icons/fa";
+import { PiFigmaLogoThin } from "react-icons/pi";
+
 import FayrouzKhan from "@/public/FayrouzKhan.png";
 import PomodoroTimer from "@/public/PomodoroTimer.png";
 import UrlShortner from "@/public/UrlShortner.png";
@@ -35,6 +37,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Ui Designer - Graphic Designer",
+    location: "Freelancer",
+    description:
+      "I have been working as a graphic designer since 2015, continually enhancing my skills in Photoshop for UI design, utilizing Figma.",
+    icon: React.createElement(PiFigmaLogoThin),
+    date: "2021",
+  },
+  {
     title: "Graduated",
     location: "Alexandria, Egypt",
     description:
@@ -52,11 +62,11 @@ export const experiencesData = [
   },
   {
     title: "Full-Stack Developer",
-    location: "6 October City, Giza, Egypt",
+    location: "Freelancer",
     description:
       "I'm now a full-stack developer working as a freelancer. My stack includes Next.js, TypeScript, Tailwind, Node.js and MongoDB. I'm open to full-time opportunities. I'm also upskilling my experience in the field of Linux and Docker.",
     icon: React.createElement(FaNodeJs),
-    date: "2023 - present",
+    date: "2024 - present",
   },
 ] as const;
 

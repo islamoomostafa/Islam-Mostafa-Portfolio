@@ -53,10 +53,10 @@ export const experiencesData = [
     date: "2021",
   },
   {
-    title: "IT help desk & Social Media designer",
+    title: "Social Media designer",
     location: "Elsawy Culturewheel, Giza, Egypt",
     description:
-      "I worked as an IT help desk and social media designer for 2 years. I also upskilled to be a full stack developer.",
+      "Social media designer for 2 years. I also upskilled to be a full stack developer.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2023",
   },

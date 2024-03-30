@@ -77,7 +77,7 @@ export const projectsData = [
       "A full-stack project for. I used Next.js for Front-End, Strapi for DB, Clerck for auth. and Stripe as a payment getway.",
     tags: ["React.js", "Next.js", "Strapi", "Clerk", "Stripe"],
     imageUrl: FayrouzKhan,
-    demo: "https://fayrouz-khan-shopping-website-next-js.vercel.app/",
+    demo: "https://fayrouzkhan.vercel.app/",
   },
   {
     title: "Pomodoro Timer",

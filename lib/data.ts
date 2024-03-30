@@ -75,7 +75,7 @@ export const projectsData = [
     title: "Fayrouz Khan E-Commerce Website",
     description:
       "It's a Full-stack project and I used Next.js for Front-End and for Back-End I used Clerk for auth., Strapi for the DB and Stripe as a payment getway.",
-    tags: ["React.js", "Next.js", "Strapi", "Stripe", "Clerk"],
+    tags: ["React.js & "Next.js" , "Strapi", "Stripe", "Clerk"],
     imageUrl: FayrouzKhan,
     demo: "fayrouzkhan.vercel.app",
   },

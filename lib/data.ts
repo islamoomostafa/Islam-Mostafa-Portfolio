@@ -72,12 +72,12 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Fayrouz Khan Shopping Website",
+    title: "Fayrouz Khan E-Commerce Website",
     description:
-      "I worked as a front-end developer on this startup project and used a dummy API until I finished the back-end using Node.js ",
-    tags: ["React", "Next.js", "MongoDB"],
+      "I worked as a Full-stack developer on this project and used Next.js for Front-End and for Back-End I used Clerk for auth., Strapi for the data base and Stripe as a payment getway.",
+    tags: ["React.js", "Next.js", "Strapi", "Stripe", "Clerk"],
     imageUrl: FayrouzKhan,
-    demo: "https://fayrouz-khan-shopping-website-next-js.vercel.app/",
+    demo: "fayrouzkhan.vercel.app",
   },
   {
     title: "Pomodoro Timer",

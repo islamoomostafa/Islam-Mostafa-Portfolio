@@ -74,7 +74,7 @@ export const projectsData = [
   {
     title: "Fayrouz Khan E-Commerce Website",
     description:
-      "A Full-stack project for gift shop "Fayrouz Khan".,
+      "A Full-stack project for gift shop Fayrouz Khan.",
     tags: ["React.js", "Next.js" , "Strapi", "Clerck", "Stripe"],
     imageUrl: FayrouzKhan,
     demo: "fayrouzkhan.vercel.app",

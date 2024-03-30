@@ -53,10 +53,10 @@ export const experiencesData = [
     date: "2021",
   },
   {
-    title: "Social Media designer",
+    title: "IT help desk & Social Media designer",
     location: "Elsawy Culturewheel, Giza, Egypt",
     description:
-      "Social media designer for 2 years. I also upskilled to be a full stack developer.",
+      "I worked as an IT help desk and social media designer for 2 years. I also upskilled to be a full stack developer.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2023",
   },
@@ -72,12 +72,12 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Fayrouz Khan E-Commerce Website",
+    title: "Fayrouz Khan Shopping Website",
     description:
-      "A Full-stack project for gift shop Fayrouz Khan.",
-    tags: ["React.js", "Next.js" , "Strapi", "Clerck", "Stripe"],
+      "A full-stack project for. I used Next.js for Front-End, Strapi for DB, Clerck for auth. and Stripe as a payment getway.",
+    tags: ["React.js", "Next.js", "Strapi", "Clerk", "Stripe"],
     imageUrl: FayrouzKhan,
-    demo: "fayrouzkhan.vercel.app",
+    demo: "https://fayrouz-khan-shopping-website-next-js.vercel.app/",
   },
   {
     title: "Pomodoro Timer",

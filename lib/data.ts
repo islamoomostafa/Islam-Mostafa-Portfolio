@@ -5,6 +5,7 @@ import { FaNodeJs } from "react-icons/fa";
 import { PiFigmaLogoThin } from "react-icons/pi";
 
 import FayrouzKhan from "@/public/FayrouzKhan.png";
+import Bosta from "@/public/Bosta.png";
 import PomodoroTimer from "@/public/PomodoroTimer.png";
 import UrlShortner from "@/public/UrlShortner.png";
 
@@ -71,6 +72,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Bosta tracking system - Cloned",
+    description:
+      "Tracking shipments from the API of Bosta Company. Enter the shipment number and it provides detailed information about the shipment. Some sample numbers we can use for tracking: (13737343 - 7234258 - 67151313)",
+    tags: ["React.js", "Next.js", "Tailwaing.css"],
+    imageUrl: Bosta,
+    demo: "https://bosta-tracking-clone.vercel.app/",
+  },
   {
     title: "Fayrouz Khan Shopping Website",
     description:

@@ -84,7 +84,7 @@ export const projectsData = [
   {
     title: "Bosta tracking system - Cloned",
     description:
-      "Tracking shipments from the API of Bosta Company. Enter the shipment number and it provides detailed information about the shipment. Some sample numbers we can use for tracking: (13737343 - 7234258 - 67151313)",
+      "Tracking shipments from the API of Bosta Company. Some sample numbers we can use for tracking: (13737343 - 7234258 - 67151313)",
     tags: ["React.js", "Next.js", "Tailwaing.css"],
     imageUrl: Bosta,
     demo: "https://bosta-tracking-clone.vercel.app/",

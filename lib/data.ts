@@ -6,6 +6,7 @@ import { PiFigmaLogoThin } from "react-icons/pi";
 
 import FayrouzKhan from "@/public/FayrouzKhan.png";
 import Bosta from "@/public/Bosta.png";
+import Notes from "@/public/Notes.png";
 import PomodoroTimer from "@/public/PomodoroTimer.png";
 import UrlShortner from "@/public/UrlShortner.png";
 
@@ -72,6 +73,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Notes App",
+    description:
+      "Quick notes app. You could add, edit or delete your note with simple organized dashboard.",
+    tags: ["React.js", "Bootstrap"],
+    imageUrl: Notes,
+    demo: "https://notes-app-withreact.vercel.app/",
+  },
   {
     title: "Bosta tracking system - Cloned",
     description:

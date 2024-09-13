@@ -43,12 +43,12 @@ export default function Contact() {
         <a className="underline" href="https://wa.me/+201007074852">
           +20 1007074852{" "}
         </a>
-       or simply use the form below. 
+       
 
       </p>
 
        
-      <form
+{/*       <form
         className="mt-10 flex flex-col dark:text-black"
         action={async (formData) => {
           const { data, error } = await sendEmail(formData);
@@ -77,7 +77,7 @@ export default function Contact() {
           maxLength={5000}
         />
         <SubmitBtn />
-      </form>
+      </form> */}
     </motion.section>
   );
 } 

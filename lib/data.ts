@@ -77,7 +77,7 @@ export const projectsData = [
   {
     title: "Simple DevOps Project",
     description:
-      "Aautomated the build, push, and deployment processes for a Flask application. The project demonstrates (CI/CD) practices by integrating Jenkins with GitHub to automatically trigger a pipeline whenever changes are made to the codebase.",
+      "Aautomated the build, push, and deployment processes for a Flask application. The project demonstrates (CI/CD) practices by integrating Jenkins with GitHub.",
     tags: ["Flask", "Jenkins", "Pipeline","Docker","AWS","EC2"],
     imageUrl: DevOps,
     demo: "https://github.com/islamoomostafa/Simple-DevOps-Project",

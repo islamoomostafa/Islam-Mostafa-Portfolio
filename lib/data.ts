@@ -7,7 +7,7 @@ import { PiFigmaLogoThin } from "react-icons/pi";
 import FayrouzKhan from "@/public/FayrouzKhan.png";
 import Bosta from "@/public/Bosta.png";
 import Notes from "@/public/Notes.png";
-import DevOps from "@/public/DevOps.png";
+import DevOps from "@/public/icons/DevOps.png";
 import PomodoroTimer from "@/public/PomodoroTimer.png";
 import UrlShortner from "@/public/UrlShortner.png";
 
